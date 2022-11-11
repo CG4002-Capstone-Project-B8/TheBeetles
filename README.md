@@ -16,7 +16,7 @@
 4. In the IDE, click on <button>Tools</button> and select the USB port connected to the Beetle (Arduino Uno).
 5. Upload the code to the Beetle based on the Beetle's function. (e.g. `latest-p1-transmitter` is uploaded to the Player 1's Beetle connected to the IR transmitter)
 
-## Making changes to `beetle_lib`
+## Making Changes to `beetle_lib`
 Any changes made to code in `beetle_lib` should be followed by a change to the folder in which Arduino's includes self-written libraries. The steps are as follows:
 
 1. Navigate to your `C:/` drive and open the folder named `Documents`.
