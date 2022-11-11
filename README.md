@@ -13,7 +13,7 @@
 1. First, determine which Beetle is to be connected to which hardware sensor (i.e. IMU, IR transmitter and receiver)
 2. Open each `.ino` file individually such that 6 Arduino IDEs are open at a time.
 3. Connect one of the Beetles to the laptop's USB port.
-4. In the IDE, click on <button>Tools</button> and select the USB port connected to the Beetle (Arduino Uno).
+4. In the IDE, click on <button>Tools</button>, and under _Port_, select the USB port connected to the Beetle (Arduino Uno).
 5. Upload the code to the Beetle based on the Beetle's function. (e.g. `latest-p1-transmitter` is uploaded to the Player 1's Beetle connected to the IR transmitter)
 
 ## Making Changes to `beetle_lib`
