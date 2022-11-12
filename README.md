@@ -2,7 +2,7 @@
 
 ## Library Installation
 1. Install the latest version of [Arduino IDE](https://www.arduino.cc/en/software) on your laptop.
-2. Clone this repository into an empty folder.
+2. Make a copy of this folder.
 3. Open one of the `.ino` files in Arduino IDE.
 4. In the IDE, under <button>Sketch</button>, hover over _Include Library_.
 5. Select _Add .ZIP Library_ and a file browser will pop up for you to select a .ZIP file.
